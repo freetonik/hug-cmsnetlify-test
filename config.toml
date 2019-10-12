@@ -1,0 +1,10 @@
+baseURL = ""
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "slim"
+
+[params]
+  Subtitle = "Your site's subtitle/tagline"
+  Content = true  # takes true or false
+  # FooterMsg = "Copyright Me 2016. Powered by Hugo."
+  mainSections = ["posts"]
